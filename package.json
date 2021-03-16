@@ -1,0 +1,11 @@
+{
+  "name": "i-hate-my-voice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wlcsv/i-hate-my-voice.git",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
